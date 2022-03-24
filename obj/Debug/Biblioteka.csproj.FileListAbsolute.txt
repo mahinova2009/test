@@ -1,0 +1,12 @@
+c:\users\mahin\documents\visual studio 2012\Projects\Biblioteka\Biblioteka\bin\Debug\Biblioteka.exe.config
+c:\users\mahin\documents\visual studio 2012\Projects\Biblioteka\Biblioteka\bin\Debug\biblioteka.mdb
+c:\users\mahin\documents\visual studio 2012\Projects\Biblioteka\Biblioteka\bin\Debug\Biblioteka.exe
+c:\users\mahin\documents\visual studio 2012\Projects\Biblioteka\Biblioteka\bin\Debug\Biblioteka.pdb
+c:\users\mahin\documents\visual studio 2012\Projects\Biblioteka\Biblioteka\obj\Debug\Biblioteka.csprojResolveAssemblyReference.cache
+c:\users\mahin\documents\visual studio 2012\Projects\Biblioteka\Biblioteka\obj\Debug\Biblioteka.Form1.resources
+c:\users\mahin\documents\visual studio 2012\Projects\Biblioteka\Biblioteka\obj\Debug\Biblioteka.Properties.Resources.resources
+c:\users\mahin\documents\visual studio 2012\Projects\Biblioteka\Biblioteka\obj\Debug\Biblioteka.csproj.GenerateResource.Cache
+c:\users\mahin\documents\visual studio 2012\Projects\Biblioteka\Biblioteka\obj\Debug\Biblioteka.exe
+c:\users\mahin\documents\visual studio 2012\Projects\Biblioteka\Biblioteka\obj\Debug\Biblioteka.pdb
+c:\users\mahin\documents\visual studio 2012\Projects\Biblioteka\Biblioteka\obj\Debug\Biblioteka.AddData.resources
+C:\Users\mahin\documents\visual studio 2012\Projects\Biblioteka\Biblioteka\obj\Debug\Biblioteka.DeleteData.resources
